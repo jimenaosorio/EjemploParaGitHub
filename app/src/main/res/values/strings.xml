@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploParaGitHub</string>
+    <string name="id">ID</string>
+    <string name="fecha">Fecha</string>
+    <string name="valor">Valor</string>
+    <string name="guardar">Guardar</string>
+</resources>
